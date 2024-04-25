@@ -11,6 +11,8 @@ O projeto Alura Newsletter é um projeto que visa a prática de estilização de
 
 ## IMAGEM DO PROJETO
 
+![Imagem do Alura Newsletter](/image/letter_alura.png)
+
 ## ACESSO AO PROJETO
 
 Você pode acessar o projeto através do link [Alura Newsletter](https://yapeansa.github.io/projeto-aluranewsletter/).
