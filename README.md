@@ -1,7 +1,16 @@
-# Projeto Alura Newsletter
+# ALURA NEWSLETTER
 
-Projeto desenvolvido utilizando a tecnologia Tailwind, aplicando estilizações e conceitos como responsividade, mobile first, Flexbox e Grid.
+O projeto Alura Newsletter é um projeto que visa a prática de estilização de uma página HTML com o framework CSS `Tailwind`.
 
-## Página do Projeto
+## TECNOLOGIAS
 
-[Alura Newsletter](https://yapeansa.github.io/projeto-aluranewsletter/)
+- HTML
+- CSS | TAILWIND
+- GIT | GITHUB
+- VS CODE
+
+## IMAGEM DO PROJETO
+
+## ACESSO AO PROJETO
+
+Você pode acessar o projeto através do link [Alura Newsletter](https://yapeansa.github.io/projeto-aluranewsletter/).
